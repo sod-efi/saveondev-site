@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /phpmyadmin/
+Disallow: /bitnami/index.html
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap:https://saveondev.com/sitemap_index.xml
